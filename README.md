@@ -1,12 +1,5 @@
 # API Pix
 
-Ambiente contendo:
-
-- Ruby 2.5.9
-- Rails 5.2.8
-
-# API de cadastro de produtos
-
 # Ambiente
 
 - Rails 5.2.8
